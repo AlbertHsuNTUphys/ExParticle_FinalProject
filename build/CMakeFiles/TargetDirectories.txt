@@ -1,0 +1,8 @@
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/install/strip.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/install/local.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/FP.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/list_install_components.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/FinalProject.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/edit_cache.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/rebuild_cache.dir
+/data1/tihsu/geant4/Final_project/build/CMakeFiles/install.dir
